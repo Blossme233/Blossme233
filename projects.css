@@ -1,0 +1,19 @@
+.carousel .carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #fff;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #444;
+}
+
+.carousel-item {
+  height: 670px;
+}
+
+.carousel-indicators {
+  bottom: -50px;
+}
